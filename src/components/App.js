@@ -1,5 +1,5 @@
 import React ,{Component} from 'react';
-import Connetcounter from './Connetcounter';
+import Connetcounter from '../container/Connetcounter';
 
 class App extends Component{
     render(){

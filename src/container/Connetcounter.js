@@ -3,8 +3,8 @@ import * as actions from '../actions';
 import { connect } from 'react-redux';
 
 const mapStateToProps = (state) => ({
-    color: state.color,
-    number: state.number
+    color: state.colorData.color,
+    number: state.numberData.number
 });
 
 const mapDispatchToProps = (dispatch) => ({
