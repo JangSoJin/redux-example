@@ -1,4 +1,4 @@
-import Counter from '../components/Counter';
+/*import Counter from '../components/Counter';
 import * as actions from '../actions';
 import { connect } from 'react-redux';
 
@@ -44,3 +44,5 @@ function getRandomColor() { //*
 }
 
 export default Connetcounter;
+
+*/
